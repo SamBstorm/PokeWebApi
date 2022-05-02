@@ -1,0 +1,14 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "classique",
+      "pokemon_1_id": 3,
+      "pokemon_2_id": 6,
+      "pokemon_3_id": 9,
+      "pokemon_4_id": 25,
+      "pokemon_5_id": 150,
+      "pokemon_6_id": 151
+    }
+  ]
+}
